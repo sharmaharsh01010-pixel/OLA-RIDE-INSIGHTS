@@ -1,4 +1,4 @@
-# OLA Ride Insights 🚗
+# OLA Ride Insights 
 
 ## Project Overview
 Analysis of OLA ride-sharing data to extract business insights using Python, SQL, Power BI, and Streamlit.
