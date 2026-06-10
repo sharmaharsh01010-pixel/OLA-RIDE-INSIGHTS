@@ -18,8 +18,8 @@ Analysis of OLA ride-sharing data to extract business insights using Python, SQL
 
 ## Features
 - 10 SQL Queries for business insights
-- Interactive Power BI Dashboard (5 pages)
-- Streamlit Web App with 5 sections
+- Interactive Power BI Dashboard 
+- Streamlit Web App
 
 ## How to Run
 ```bash
